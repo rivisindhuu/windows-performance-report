@@ -13,16 +13,16 @@
 - System Type: 64-bit
 - Manufacturer: Dell inc.
 
-![System Info](<img width="1260" height="669" alt="System configuration" src="https://github.com/user-attachments/assets/dfdaac67-d551-42fa-bf2a-48c036742cf7" />
-)
+![System Info] 
 
----
+<img width="1260" height="669" alt="System configuration" src="https://github.com/user-attachments/assets/2781f67c-391f-4c0b-9ee4-14ccc7466f0e" />
 
-## 2. Network Status Verification
+## 2. Network Status Verification!()
+
 
 ### Network Status
-![Network](<img width="752" height="637" alt="network_status" src="https://github.com/user-attachments/assets/939dbdb5-8a6b-4879-8e9e-48e2f4eb17a6" />
-)
+![Network] <img width="752" height="637" alt="network_status" src="https://github.com/user-attachments/assets/939dbdb5-8a6b-4879-8e9e-48e2f4eb17a6" />
+
 
 ### IP Configuration
 ![IPConfig](<img width="769" height="677" alt="IPConfig" src="https://github.com/user-attachments/assets/216f43d4-514e-48e4-b963-e86e18c1ba06" />
