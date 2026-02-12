@@ -17,7 +17,7 @@
 
 <img width="1260" height="669" alt="System configuration" src="https://github.com/user-attachments/assets/2781f67c-391f-4c0b-9ee4-14ccc7466f0e" />
 
-## 2. Network Status Verification!()
+## 2. Network Status Verification
 
 
 ### Network Status
